@@ -2,7 +2,14 @@
     "name": "Great-Wall",
     "description": "Mise en place d'un système de sécurité et de controle à distance d'une maison",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-dashboard": "3.6.2",
+        "node-red-node-mysql": "2.0.0",
+        "node-red-node-random": "0.4.1",
+        "node-red-node-serialport": "2.0.2",
+        "node-red-contrib-ui-led": "0.4.11",
+        "node-red-contrib-modbus": "5.31.0"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows.json",
