@@ -4228,10 +4228,9 @@
         "id": "9c67833c448b52dd",
         "type": "serial in",
         "z": "04f9b61dcb1ad18b",
-        "d": true,
-        "name": "",
-        "serial": "ab30fae1.9dd208",
-        "x": 190,
+        "name": "Serail in",
+        "serial": "ed23d8b5a689572b",
+        "x": 200,
         "y": 1240,
         "wires": [
             [
@@ -4264,9 +4263,9 @@
         "type": "serial out",
         "z": "04f9b61dcb1ad18b",
         "d": true,
-        "name": "",
+        "name": "Serial out",
         "serial": "ab30fae1.9dd208",
-        "x": 870,
+        "x": 880,
         "y": 1360,
         "wires": []
     },
