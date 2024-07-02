@@ -4262,7 +4262,6 @@
         "id": "0a4d3e70b35cda3c",
         "type": "serial out",
         "z": "04f9b61dcb1ad18b",
-        "d": true,
         "name": "Serial out",
         "serial": "ab30fae1.9dd208",
         "x": 880,
