@@ -1,0 +1,12 @@
+{
+    "name": "Great-Wall",
+    "description": "Mise en place d'un système de sécurité et de controle à distance d'une maison",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}

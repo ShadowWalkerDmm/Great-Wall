@@ -1,0 +1,4641 @@
+[
+    {
+        "id": "96169f64a515f84f",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ec6b799c59898d2b",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "f9a8578ce06a7a8b",
+        "type": "tab",
+        "label": "Flow 3",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "14b2dd2739e598be",
+        "type": "tab",
+        "label": "Flow 4",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "fd675e96a888dcb0",
+        "type": "tab",
+        "label": "Flow 5",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "17e68f546d1aab07",
+        "type": "tab",
+        "label": "Flow 6",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "10ab73566672dce7",
+        "type": "tab",
+        "label": "Flow 7",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "eec71f3089d9e216",
+        "type": "tab",
+        "label": "Flow 8",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "4100e7211f163caf",
+        "type": "tab",
+        "label": "Flow 9",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "c9fb491420bd51ce",
+        "type": "tab",
+        "label": "Flow 10",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "3cc11c75713ec29b",
+        "type": "tab",
+        "label": "Flow 11",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "c285fb61b2d2a949",
+        "type": "tab",
+        "label": "Flow 12",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "b637994721b53870",
+        "type": "tab",
+        "label": "Flow 13",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "6033595d0855d3fc",
+        "type": "tab",
+        "label": "Motion Sensor Simulation",
+        "disabled": true,
+        "info": ""
+    },
+    {
+        "id": "11820e36f717b5cf",
+        "type": "tab",
+        "label": "Flux 1",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "04f9b61dcb1ad18b",
+        "type": "tab",
+        "label": "Great Wall",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "b18229735c03d07e",
+        "type": "tab",
+        "label": "Flux 2",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "13c1d77cb1c8b9ad",
+        "type": "tab",
+        "label": "Flux 4",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "9",
+        "type": "ui_group",
+        "name": "Default",
+        "tab": "10",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "10",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "order": 1
+    },
+    {
+        "id": "f79f93dcc5ef00c1",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-dark",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#80ff00",
+                "baseFont": "Lucida Sans Unicode,Lucida Grande,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#097479",
+                    "value": "#097479",
+                    "edited": true
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#0eb8c0",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#555555",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#eeeeee",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "96a044fdc6a4f864",
+        "type": "ui_tab",
+        "name": "FirstTab",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "2dc967c2470c16b6",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "881a9e99e4720c26",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c91eb85275341d78",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "96a044fdc6a4f864",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "881a9e99e4720c26",
+        "type": "ui_tab",
+        "name": "SecondTab",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "4396eecee97daf85",
+        "type": "ui_group",
+        "name": "Group 2",
+        "tab": "881a9e99e4720c26",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "63bcc7dbcfe2b90f",
+        "type": "ui_group",
+        "name": "Group 3",
+        "tab": "881a9e99e4720c26",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "9c76ce7897015dd3",
+        "type": "ui_group",
+        "name": "Group 4",
+        "tab": "881a9e99e4720c26",
+        "order": 4,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d88758a2f0f2051d",
+        "type": "ui_tab",
+        "name": "ThirdTab",
+        "icon": "dashboard",
+        "order": 3,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "a9c3f4486ab71524",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "d88758a2f0f2051d",
+        "order": 1,
+        "disp": true,
+        "width": 6
+    },
+    {
+        "id": "13c97c7094adb4ca",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "localhost",
+        "port": "1880",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "8c5b99709c90620a",
+        "type": "ui_group",
+        "name": "Default",
+        "tab": "4c70ce602964b5fb",
+        "order": 1,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4c70ce602964b5fb",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "dac9605b9681aeb4",
+        "type": "MySQLdatabase",
+        "name": "node_red_db",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "db": "node_red_db",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "a1d599b22d6ae588",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "mysql-diallomm.alwaysdata.net",
+        "port": "3306",
+        "db": "diallomm_arduino_db",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "558c6a633a98c0c6",
+        "type": "MySQLdatabase",
+        "name": "motionSensorTest",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "db": "greetwall",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "d56efcd5f1139991",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "mysql-yacoub.alwaysdata.net",
+        "port": "3306",
+        "db": "yacoub_db",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "d5e349290e4e2824",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM5",
+        "serialbaud": "9600",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "250"
+    },
+    {
+        "id": "86cb1392e30ecf41",
+        "type": "ui_group",
+        "name": "Counter",
+        "tab": "f595556218c6c495",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "f595556218c6c495",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "order": 1
+    },
+    {
+        "id": "d060e9ee.6d32c8",
+        "type": "ui_group",
+        "name": "Door Lock",
+        "tab": "7e5cc7a3.1c7de4",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "7e5cc7a3.1c7de4",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "order": 1
+    },
+    {
+        "id": "19c0ac5b.2a7f51",
+        "type": "ui_group",
+        "name": "Door Lock System",
+        "tab": "b6216715.9058a8",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "b6216715.9058a8",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "b2392a0a2ed8ed1c",
+        "type": "modbus-client",
+        "name": "Modbus Arduino",
+        "clienttype": "tcp",
+        "bufferCommands": true,
+        "stateLogEnabled": false,
+        "queueLogEnabled": false,
+        "failureLogEnabled": true,
+        "tcpHost": "192.168.0.18",
+        "tcpPort": "502",
+        "tcpType": "DEFAULT",
+        "serialPort": "/dev/ttyUSB",
+        "serialType": "RTU-BUFFERD",
+        "serialBaudrate": "9600",
+        "serialDatabits": "8",
+        "serialStopbits": "1",
+        "serialParity": "none",
+        "serialConnectionDelay": "100",
+        "serialAsciiResponseStartDelimiter": "0x3A",
+        "unit_id": "1",
+        "commandDelay": "1",
+        "clientTimeout": "1000",
+        "reconnectOnTimeout": true,
+        "reconnectTimeout": "2000",
+        "parallelUnitIdsAllowed": true,
+        "showErrors": false,
+        "showWarnings": true,
+        "showLogs": true
+    },
+    {
+        "id": "bf678ed014e9195b",
+        "type": "websocket-listener",
+        "path": "/ws/sensor",
+        "wholemsg": "false"
+    },
+    {
+        "id": "ffc299a188dd0ab7",
+        "type": "websocket-listener",
+        "path": "/ws/doors",
+        "wholemsg": "false"
+    },
+    {
+        "id": "ed23d8b5a689572b",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM3",
+        "serialbaud": "9600",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "1c33e4681c2d70db",
+        "type": "MySQLdatabase",
+        "name": "GreatWall database",
+        "host": "mysql-shadonet.alwaysdata.net",
+        "port": "3306",
+        "db": "shadonet_db",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "b1263683.a4d658",
+        "type": "MySQLdatabase",
+        "name": "MySQL",
+        "host": "localhost",
+        "port": "3306",
+        "db": "sensor_data",
+        "tz": ""
+    },
+    {
+        "id": "33b7d290.142d3e",
+        "type": "ui_group",
+        "name": "ESP32-CAM",
+        "tab": "7cb11a47.567524",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "7cb11a47.567524",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "171c7c67.6f47be",
+        "type": "ui_group",
+        "name": "Webcam",
+        "tab": "331ec6de.24f3a8",
+        "order": 1,
+        "disp": true,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "331ec6de.24f3a8",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "a4b76b5a.39c51",
+        "type": "ui_group",
+        "name": "Caméra",
+        "tab": "1c53866e.3e84b",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "b904734a.61c658",
+        "type": "ui_group",
+        "name": "Default",
+        "tab": "1c53866e.3e84b",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "1c53866e.3e84b",
+        "type": "ui_tab",
+        "name": "Tableau de bord",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "ad249c80.127e48",
+        "type": "ui_group",
+        "name": "Video Stream",
+        "tab": "feea2835.28e6b8",
+        "order": 1,
+        "disp": true,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "feea2835.28e6b8",
+        "type": "ui_tab",
+        "name": "Camera Stream",
+        "icon": "dashboard",
+        "order": 3,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "ab30fae1.9dd208",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM6",
+        "serialbaud": "9600",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "newline": "",
+        "addchar": "",
+        "responsetimeout": ""
+    },
+    {
+        "id": "76b89a848ba20636",
+        "type": "ui_switch",
+        "z": "96169f64a515f84f",
+        "name": "",
+        "label": "switch",
+        "tooltip": "",
+        "group": "c91eb85275341d78",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 90,
+        "y": 220,
+        "wires": [
+            [
+                "4165781e82476c7b"
+            ]
+        ]
+    },
+    {
+        "id": "4165781e82476c7b",
+        "type": "function",
+        "z": "96169f64a515f84f",
+        "name": "function 1",
+        "func": "const Etat = msg.payload\n\nif(Etat === true){\n    msg = {payload: \"ON\"}\n    return [msg]\n}\nelse if(Etat === false){\n    msg = {payload: \"OFF\"}\n    return [msg]\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 300,
+        "wires": [
+            [
+                "f1bddbe15321bf23"
+            ]
+        ]
+    },
+    {
+        "id": "f1bddbe15321bf23",
+        "type": "debug",
+        "z": "96169f64a515f84f",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 620,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "58ffae9d.a7005",
+        "type": "debug",
+        "z": "ec6b799c59898d2b",
+        "d": true,
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 110,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "17626462.e89d9c",
+        "type": "inject",
+        "z": "ec6b799c59898d2b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 110,
+        "y": 320,
+        "wires": [
+            [
+                "015d95e07616afc9"
+            ]
+        ]
+    },
+    {
+        "id": "2921667d.d6de9a",
+        "type": "function",
+        "z": "ec6b799c59898d2b",
+        "d": true,
+        "name": "Format timestamp",
+        "func": "function random(){\n    return Math.floor(Math.random()*501);\n}\nmsg.payload = random()\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 110,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "015d95e07616afc9",
+        "type": "random",
+        "z": "ec6b799c59898d2b",
+        "name": "CapteurDistance",
+        "low": 1,
+        "high": "500",
+        "inte": "true",
+        "property": "payload",
+        "x": 330,
+        "y": 400,
+        "wires": [
+            [
+                "94193d0c6d20f531",
+                "22df8904315bf1da",
+                "7f253f33b76b6de5",
+                "bb95b30d5e0226d9"
+            ]
+        ]
+    },
+    {
+        "id": "22df8904315bf1da",
+        "type": "ui_chart",
+        "z": "ec6b799c59898d2b",
+        "name": "",
+        "group": "4396eecee97daf85",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "chart",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "1",
+        "ymax": "500",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 590,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7f253f33b76b6de5",
+        "type": "ui_text",
+        "z": "ec6b799c59898d2b",
+        "group": "63bcc7dbcfe2b90f",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "mesureDeDistance",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 610,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "94193d0c6d20f531",
+        "type": "ui_gauge",
+        "z": "ec6b799c59898d2b",
+        "name": "",
+        "group": "2dc967c2470c16b6",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "gauge",
+        "label": "units",
+        "format": "{{value}}",
+        "min": "1",
+        "max": "500",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "100",
+        "seg2": "300",
+        "diff": false,
+        "className": "",
+        "x": 590,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "bb95b30d5e0226d9",
+        "type": "function",
+        "z": "ec6b799c59898d2b",
+        "name": "function 2",
+        "func": "\nif (msg.payload < 100) {\n    var msg1 = { payload: \"porte fermee\" }\n}\nelse if (msg.payload > 100) {\n    var msg1 = { payload: \"porte ouverte\" }\n}\nreturn msg1",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 260,
+        "wires": [
+            [
+                "17e9149f24b51750",
+                "0c8a3daca32454a3",
+                "857890d742bbb59d"
+            ]
+        ]
+    },
+    {
+        "id": "17e9149f24b51750",
+        "type": "ui_text",
+        "z": "ec6b799c59898d2b",
+        "group": "9c76ce7897015dd3",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Porte",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 870,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "a2c4975fd5ae3cb3",
+        "type": "mysql",
+        "z": "ec6b799c59898d2b",
+        "d": true,
+        "mydb": "558c6a633a98c0c6",
+        "name": "",
+        "x": 1070,
+        "y": 380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0c8a3daca32454a3",
+        "type": "function",
+        "z": "ec6b799c59898d2b",
+        "name": "function 4",
+        "func": "msg.topic = \"INSERT INTO iot(etatPort) VALUES('\"+msg.payload+\"')\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 880,
+        "y": 380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "857890d742bbb59d",
+        "type": "debug",
+        "z": "ec6b799c59898d2b",
+        "name": "debug 143",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 890,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "122f01a59fa6020a",
+        "type": "mysql",
+        "z": "f9a8578ce06a7a8b",
+        "d": true,
+        "mydb": "dac9605b9681aeb4",
+        "name": "",
+        "x": 690,
+        "y": 280,
+        "wires": [
+            [
+                "647b855a84e9efd0"
+            ]
+        ]
+    },
+    {
+        "id": "b5c97f00b65e4459",
+        "type": "inject",
+        "z": "f9a8578ce06a7a8b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 180,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4fa1cd7a87c4dbcc",
+        "type": "function",
+        "z": "f9a8578ce06a7a8b",
+        "name": "select",
+        "func": "msg.topic = \"SELECT * FROM object;\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 280,
+        "wires": [
+            [
+                "122f01a59fa6020a"
+            ]
+        ]
+    },
+    {
+        "id": "647b855a84e9efd0",
+        "type": "debug",
+        "z": "f9a8578ce06a7a8b",
+        "name": "debug 2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 980,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "00d10d349c112635",
+        "type": "mysql",
+        "z": "14b2dd2739e598be",
+        "d": true,
+        "mydb": "a1d599b22d6ae588",
+        "name": "",
+        "x": 1140,
+        "y": 800,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9cf923647f5f3f4d",
+        "type": "debug",
+        "z": "14b2dd2739e598be",
+        "name": "debug 3",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "70337d8e9a596095",
+        "type": "inject",
+        "z": "14b2dd2739e598be",
+        "name": "InsetIntoDB",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "INSERT INTO object(objectName,objectStatus) VALUES(?,?);",
+        "payload": "[\"dor\",\"closed\"]",
+        "payloadType": "json",
+        "x": 330,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c8179b8fab18ffb4",
+        "type": "function",
+        "z": "14b2dd2739e598be",
+        "name": "function 3",
+        "func": "const Etat = msg.payload\n\nif (Etat === true) {\n    msg = { payload: \"ON\" }\n    return [msg]\n}\nelse if (Etat === false) {\n    msg = { payload: \"OFF\" }\n    return [msg]\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 420,
+        "wires": [
+            [
+                "d598f087b6dffcab"
+            ]
+        ]
+    },
+    {
+        "id": "4bab43be8373c03e",
+        "type": "ui_button",
+        "z": "14b2dd2739e598be",
+        "d": true,
+        "name": "",
+        "group": "a9c3f4486ab71524",
+        "order": 1,
+        "width": "3",
+        "height": "1",
+        "passthru": false,
+        "label": "ON",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 150,
+        "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "51d1dd1cfc6a9bb9",
+        "type": "ui_button",
+        "z": "14b2dd2739e598be",
+        "d": true,
+        "name": "",
+        "group": "a9c3f4486ab71524",
+        "order": 2,
+        "width": "3",
+        "height": "1",
+        "passthru": true,
+        "label": "OFF",
+        "tooltip": "",
+        "color": "red",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 150,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d598f087b6dffcab",
+        "type": "function",
+        "z": "14b2dd2739e598be",
+        "name": "update",
+        "func": "msg.topic = \"UPDATE object SET objectStatus = '\" + msg.payload + \"'\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 420,
+        "wires": [
+            [
+                "9cf923647f5f3f4d",
+                "4a538b9866f4f612"
+            ]
+        ]
+    },
+    {
+        "id": "629d905f767acc31",
+        "type": "ui_switch",
+        "z": "14b2dd2739e598be",
+        "name": "",
+        "label": "switch",
+        "tooltip": "",
+        "group": "a9c3f4486ab71524",
+        "order": 1,
+        "width": "4",
+        "height": "3",
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 270,
+        "y": 420,
+        "wires": [
+            [
+                "c8179b8fab18ffb4"
+            ]
+        ],
+        "icon": "font-awesome/fa-lightbulb-o"
+    },
+    {
+        "id": "4a538b9866f4f612",
+        "type": "mysql",
+        "z": "14b2dd2739e598be",
+        "mydb": "a1d599b22d6ae588",
+        "name": "",
+        "x": 960,
+        "y": 520,
+        "wires": [
+            [
+                "514e56bdf7b97045"
+            ]
+        ]
+    },
+    {
+        "id": "514e56bdf7b97045",
+        "type": "serial out",
+        "z": "14b2dd2739e598be",
+        "name": "",
+        "serial": "ed23d8b5a689572b",
+        "x": 1130,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "8020f44fc8902e15",
+        "type": "inject",
+        "z": "fd675e96a888dcb0",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 100,
+        "y": 260,
+        "wires": [
+            [
+                "e205dafd3eba28e4"
+            ]
+        ]
+    },
+    {
+        "id": "e205dafd3eba28e4",
+        "type": "random",
+        "z": "fd675e96a888dcb0",
+        "name": "motion sensor",
+        "low": 1,
+        "high": "200",
+        "inte": "true",
+        "property": "payload",
+        "x": 240,
+        "y": 380,
+        "wires": [
+            [
+                "56a34f91ab0581d3"
+            ]
+        ]
+    },
+    {
+        "id": "56a34f91ab0581d3",
+        "type": "function",
+        "z": "fd675e96a888dcb0",
+        "name": "filter data",
+        "func": "if (msg.payload > 1) {\n    msg = { payload: \"motion detected!!!!\" }\n}\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 260,
+        "wires": [
+            [
+                "bcdd9d037ca3863e"
+            ]
+        ]
+    },
+    {
+        "id": "bcdd9d037ca3863e",
+        "type": "ui_text",
+        "z": "fd675e96a888dcb0",
+        "group": "8c5b99709c90620a",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "motion sensor",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 560,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "69138ac06e96a9ff",
+        "type": "function",
+        "z": "17e68f546d1aab07",
+        "name": "select",
+        "func": "msg.topic = \"SELECT statusVariable FROM status WHERE id=(SELECT MAX(id) FROM status);\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f6480e3335712b8c",
+        "type": "inject",
+        "z": "17e68f546d1aab07",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 180,
+        "y": 240,
+        "wires": [
+            [
+                "69138ac06e96a9ff"
+            ]
+        ]
+    },
+    {
+        "id": "727918fa53b21d90",
+        "type": "debug",
+        "z": "17e68f546d1aab07",
+        "name": "debug 144",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1010,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "fde3072f265043ee",
+        "type": "inject",
+        "z": "17e68f546d1aab07",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "SELECT statusVariable FROM status WHERE id=(SELECT MAX(id) FROM status);",
+        "payload": "",
+        "payloadType": "date",
+        "x": 190,
+        "y": 340,
+        "wires": [
+            [
+                "465cb6cd1fc006c4"
+            ]
+        ]
+    },
+    {
+        "id": "25dc6be7e5928388",
+        "type": "function",
+        "z": "17e68f546d1aab07",
+        "name": "function 5",
+        "func": "//return msg.payload[0].statusVariable;\nvar statusVariableValue = msg.payload[0].statusVariable;\nreturn { payload: statusVariableValue };",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 820,
+        "y": 420,
+        "wires": [
+            [
+                "727918fa53b21d90",
+                "5c560bb09bb115c0",
+                "c0f48030910b69ce"
+            ]
+        ]
+    },
+    {
+        "id": "5c560bb09bb115c0",
+        "type": "serial out",
+        "z": "17e68f546d1aab07",
+        "name": "",
+        "serial": "ed23d8b5a689572b",
+        "x": 1010,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "c0f48030910b69ce",
+        "type": "ui_text",
+        "z": "17e68f546d1aab07",
+        "group": "c91eb85275341d78",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Lamp status",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": true,
+        "font": "Arial Narrow,Nimbus Sans L,sans-serif",
+        "fontSize": "20",
+        "color": "#00ff40",
+        "x": 1050,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "465cb6cd1fc006c4",
+        "type": "mysql",
+        "z": "17e68f546d1aab07",
+        "mydb": "a1d599b22d6ae588",
+        "name": "",
+        "x": 540,
+        "y": 340,
+        "wires": [
+            [
+                "25dc6be7e5928388"
+            ]
+        ]
+    },
+    {
+        "id": "7882ad221867d237",
+        "type": "inject",
+        "z": "10ab73566672dce7",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 380,
+        "wires": [
+            [
+                "53bbd9ff5c223246"
+            ]
+        ]
+    },
+    {
+        "id": "53bbd9ff5c223246",
+        "type": "random",
+        "z": "10ab73566672dce7",
+        "name": "CapteurDistance",
+        "low": 1,
+        "high": "200",
+        "inte": "true",
+        "property": "payload",
+        "x": 350,
+        "y": 460,
+        "wires": [
+            [
+                "d0c93da94881c235",
+                "9bcede4a0ab8209f",
+                "527a659d005085d3",
+                "a2ddd67bc299ea67"
+            ]
+        ]
+    },
+    {
+        "id": "a2ddd67bc299ea67",
+        "type": "function",
+        "z": "10ab73566672dce7",
+        "name": "filter data",
+        "func": "\nif (msg.payload < 100) {\n    msg = { payload: \"porte fermee\" }\n}\nelse if (msg.payload > 100) {\n    msg = { payload: \"porte ouverte\" }\n}\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 380,
+        "wires": [
+            [
+                "f3a2fe3b364c594a",
+                "a390859e55ea5247",
+                "6dda047a3b795e62"
+            ]
+        ]
+    },
+    {
+        "id": "d0c93da94881c235",
+        "type": "ui_gauge",
+        "z": "10ab73566672dce7",
+        "name": "",
+        "group": "2dc967c2470c16b6",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "gauge",
+        "label": "units",
+        "format": "{{value}}",
+        "min": "1",
+        "max": "500",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "100",
+        "seg2": "300",
+        "diff": false,
+        "className": "",
+        "x": 570,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "9bcede4a0ab8209f",
+        "type": "ui_chart",
+        "z": "10ab73566672dce7",
+        "name": "",
+        "group": "4396eecee97daf85",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "chart",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "1",
+        "ymax": "500",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 570,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "527a659d005085d3",
+        "type": "ui_text",
+        "z": "10ab73566672dce7",
+        "group": "63bcc7dbcfe2b90f",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "mesureDeDistance",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 610,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "a390859e55ea5247",
+        "type": "function",
+        "z": "10ab73566672dce7",
+        "name": "Insert into alwaysdata",
+        "func": "msg.topic = \"INSERT INTO door_status(doorStatus) VALUES('\"+msg.payload+\"')\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 860,
+        "y": 480,
+        "wires": [
+            [
+                "766851772f7ac5e3"
+            ]
+        ]
+    },
+    {
+        "id": "f3a2fe3b364c594a",
+        "type": "debug",
+        "z": "10ab73566672dce7",
+        "name": "debug 145",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 830,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "766851772f7ac5e3",
+        "type": "mysql",
+        "z": "10ab73566672dce7",
+        "mydb": "a1d599b22d6ae588",
+        "name": "",
+        "x": 1180,
+        "y": 360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fc00634e4bc782bd",
+        "type": "serial in",
+        "z": "10ab73566672dce7",
+        "name": "",
+        "serial": "d5e349290e4e2824",
+        "x": 190,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6dda047a3b795e62",
+        "type": "ui_text",
+        "z": "10ab73566672dce7",
+        "group": "9c76ce7897015dd3",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Door",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 810,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "7447cdb2313407ce",
+        "type": "serial in",
+        "z": "eec71f3089d9e216",
+        "name": "",
+        "serial": "d5e349290e4e2824",
+        "x": 150,
+        "y": 320,
+        "wires": [
+            [
+                "0c8537c97a0c224c"
+            ]
+        ]
+    },
+    {
+        "id": "0c8537c97a0c224c",
+        "type": "random",
+        "z": "eec71f3089d9e216",
+        "name": "CapteurDistance",
+        "low": 1,
+        "high": "200",
+        "inte": "true",
+        "property": "payload",
+        "x": 450,
+        "y": 340,
+        "wires": [
+            [
+                "dc7a68f4c71e2f20",
+                "5beb8843dc199e63"
+            ]
+        ]
+    },
+    {
+        "id": "dc7a68f4c71e2f20",
+        "type": "function",
+        "z": "eec71f3089d9e216",
+        "name": "filter data",
+        "func": "\nif (msg.payload < 100) {\n    msg = { payload: \"porte fermee\" }\n}\nelse if (msg.payload > 100) {\n    msg = { payload: \"porte ouverte\" }\n}\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 776.3333129882812,
+        "y": 250.33334350585938,
+        "wires": [
+            [
+                "4e1f6aac4dc29bbb"
+            ]
+        ]
+    },
+    {
+        "id": "4e1f6aac4dc29bbb",
+        "type": "ui_text",
+        "z": "eec71f3089d9e216",
+        "group": "9c76ce7897015dd3",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Door",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 996.3333129882812,
+        "y": 250.33334350585938,
+        "wires": []
+    },
+    {
+        "id": "5beb8843dc199e63",
+        "type": "ui_gauge",
+        "z": "eec71f3089d9e216",
+        "name": "",
+        "group": "2dc967c2470c16b6",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "gauge",
+        "label": "units",
+        "format": "{{value}}",
+        "min": "1",
+        "max": "500",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "100",
+        "seg2": "300",
+        "diff": false,
+        "className": "",
+        "x": 750,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "f0bf7e683585bafc",
+        "type": "serial in",
+        "z": "4100e7211f163caf",
+        "name": "Arduino Mega",
+        "serial": "ed23d8b5a689572b",
+        "x": 170,
+        "y": 160,
+        "wires": [
+            [
+                "3d4863349d2ec08d"
+            ]
+        ]
+    },
+    {
+        "id": "3d4863349d2ec08d",
+        "type": "function",
+        "z": "4100e7211f163caf",
+        "name": "Parse Counter Value",
+        "func": "//var counter = msg.payload;\n//msg.payload = {\n//    topic: \"counter\",\n//    payload: counter\n//};\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 160,
+        "wires": [
+            [
+                "1d3e7ca14ce1d872"
+            ]
+        ]
+    },
+    {
+        "id": "1d3e7ca14ce1d872",
+        "type": "ui_text",
+        "z": "4100e7211f163caf",
+        "group": "86cb1392e30ecf41",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Counter : ",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": "",
+        "color": "#000000",
+        "x": 540,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "86a011f9c2af0896",
+        "type": "serial in",
+        "z": "c9fb491420bd51ce",
+        "d": true,
+        "name": "",
+        "serial": "ed23d8b5a689572b",
+        "x": 190,
+        "y": 400,
+        "wires": [
+            [
+                "646b6ed34ca4436a"
+            ]
+        ]
+    },
+    {
+        "id": "48cbab636d3e08e1",
+        "type": "debug",
+        "z": "c9fb491420bd51ce",
+        "name": "debug 148",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 530,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "646b6ed34ca4436a",
+        "type": "function",
+        "z": "c9fb491420bd51ce",
+        "name": "function 8",
+        "func": "msg.topic = \"INSERT INTO motionsensors(state) VALUES('\" + msg.payload + \"')\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 480,
+        "wires": [
+            [
+                "ac0f50493a4a8e49"
+            ]
+        ]
+    },
+    {
+        "id": "ac0f50493a4a8e49",
+        "type": "mysql",
+        "z": "c9fb491420bd51ce",
+        "d": true,
+        "mydb": "558c6a633a98c0c6",
+        "name": "",
+        "x": 710,
+        "y": 460,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a2971569b4d4a112",
+        "type": "websocket in",
+        "z": "c9fb491420bd51ce",
+        "name": "test in",
+        "server": "bf678ed014e9195b",
+        "client": "",
+        "x": 250,
+        "y": 220,
+        "wires": [
+            [
+                "a432a2a8cb365297"
+            ]
+        ]
+    },
+    {
+        "id": "27d98bd7eadda795",
+        "type": "websocket out",
+        "z": "c9fb491420bd51ce",
+        "name": "",
+        "server": "bf678ed014e9195b",
+        "client": "",
+        "x": 620,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "a432a2a8cb365297",
+        "type": "function",
+        "z": "c9fb491420bd51ce",
+        "name": "function 9",
+        "func": "msg.payload = JSON.parse(msg.payload || '{}')\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 280,
+        "wires": [
+            [
+                "48cbab636d3e08e1"
+            ]
+        ]
+    },
+    {
+        "id": "0d1399d5cf393c4c",
+        "type": "ui_button",
+        "z": "3cc11c75713ec29b",
+        "name": "",
+        "group": "19c0ac5b.2a7f51",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Lock Door",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "#f3d77e",
+        "className": "",
+        "icon": "fa-lock",
+        "payload": "1122",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 190,
+        "y": 320,
+        "wires": [
+            [
+                "8de4c208454bd66e"
+            ]
+        ]
+    },
+    {
+        "id": "6c9238ab8b7628cc",
+        "type": "ui_button",
+        "z": "3cc11c75713ec29b",
+        "name": "",
+        "group": "19c0ac5b.2a7f51",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Unlock Door",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "#90ee7e",
+        "className": "",
+        "icon": "fa-unlock-alt",
+        "payload": "1234",
+        "payloadType": "str",
+        "topic": "",
+        "topicType": "str",
+        "x": 200,
+        "y": 380,
+        "wires": [
+            [
+                "8de4c208454bd66e"
+            ]
+        ]
+    },
+    {
+        "id": "8de4c208454bd66e",
+        "type": "function",
+        "z": "3cc11c75713ec29b",
+        "name": "Send to Arduino",
+        "func": "msg.payload = parseInt(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 360,
+        "wires": [
+            [
+                "e16078c8696d0c34"
+            ]
+        ]
+    },
+    {
+        "id": "2884f1d35a34999e",
+        "type": "serial out",
+        "z": "3cc11c75713ec29b",
+        "d": true,
+        "name": "",
+        "serial": "ed23d8b5a689572b",
+        "x": 670,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "e16078c8696d0c34",
+        "type": "ui_led",
+        "z": "3cc11c75713ec29b",
+        "order": 3,
+        "group": "19c0ac5b.2a7f51",
+        "width": 0,
+        "height": 0,
+        "label": "Door Status",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 530,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "aae477691d4c774c",
+        "type": "debug",
+        "z": "c285fb61b2d2a949",
+        "name": "debug 146",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 290,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "ee414d11dfb0035a",
+        "type": "serial in",
+        "z": "c285fb61b2d2a949",
+        "name": "DHT11",
+        "serial": "ed23d8b5a689572b",
+        "x": 90,
+        "y": 180,
+        "wires": [
+            [
+                "f610df62c1d52abd"
+            ]
+        ]
+    },
+    {
+        "id": "f610df62c1d52abd",
+        "type": "function",
+        "z": "c285fb61b2d2a949",
+        "name": "function 6",
+        "func": "m = msg.payload.split(',');\nH = { payload: parseFloat(m[0]) };\nT = { payload: parseFloat(m[1]) };\n\nreturn [H, T];",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 180,
+        "y": 280,
+        "wires": [
+            [
+                "bfae4eef4b3b27c1"
+            ],
+            [
+                "dd48e8568abad610"
+            ]
+        ]
+    },
+    {
+        "id": "bfae4eef4b3b27c1",
+        "type": "ui_gauge",
+        "z": "c285fb61b2d2a949",
+        "name": "Humidity",
+        "group": "8c5b99709c90620a",
+        "order": 1,
+        "width": "4",
+        "height": "4",
+        "gtype": "donut",
+        "title": "Humidity",
+        "label": "units",
+        "format": "{{value}}%",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 380,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "dd48e8568abad610",
+        "type": "ui_gauge",
+        "z": "c285fb61b2d2a949",
+        "name": "Temperature",
+        "group": "8c5b99709c90620a",
+        "order": 2,
+        "width": "4",
+        "height": "4",
+        "gtype": "donut",
+        "title": "Temperature",
+        "label": "units",
+        "format": "{{value}}°C",
+        "min": 0,
+        "max": "50",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 390,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "405e4187.e10dd8",
+        "type": "serial out",
+        "z": "b637994721b53870",
+        "name": "",
+        "serial": "ab30fae1.9dd208",
+        "x": 570,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "9a3d40c6b8142595",
+        "type": "debug",
+        "z": "b637994721b53870",
+        "name": "debug 147",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 610,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "9a5c7037139ebbcf",
+        "type": "function",
+        "z": "b637994721b53870",
+        "name": "function 7",
+        "func": "var doorStatusValue = msg.payload[0].doorStatus;\nreturn { payload: doorStatusValue };",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 500,
+        "wires": [
+            [
+                "9a3d40c6b8142595",
+                "405e4187.e10dd8"
+            ]
+        ]
+    },
+    {
+        "id": "5f0386b009701be5",
+        "type": "mysql",
+        "z": "b637994721b53870",
+        "mydb": "a1d599b22d6ae588",
+        "name": "",
+        "x": 400,
+        "y": 420,
+        "wires": [
+            [
+                "9a5c7037139ebbcf"
+            ]
+        ]
+    },
+    {
+        "id": "c40f574d8c99322d",
+        "type": "inject",
+        "z": "b637994721b53870",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "SELECT doorStatus FROM door_status WHERE id=(SELECT MAX(id) FROM door_status);",
+        "payload": "",
+        "payloadType": "date",
+        "x": 240,
+        "y": 300,
+        "wires": [
+            [
+                "5f0386b009701be5"
+            ]
+        ]
+    },
+    {
+        "id": "e69fe111f70f8ab1",
+        "type": "websocket out",
+        "z": "6033595d0855d3fc",
+        "name": "",
+        "server": "bf678ed014e9195b",
+        "client": "",
+        "x": 1200,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "9152f2a2ca3af403",
+        "type": "function",
+        "z": "6033595d0855d3fc",
+        "name": "Insert into motionsensors",
+        "func": "msg.topic = \"INSERT INTO motionsensors(state) VALUES('\" + msg.payload.motion + \"')\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 180,
+        "wires": [
+            [
+                "2773abc3c92b0ebf"
+            ]
+        ]
+    },
+    {
+        "id": "2773abc3c92b0ebf",
+        "type": "mysql",
+        "z": "6033595d0855d3fc",
+        "d": true,
+        "mydb": "1c33e4681c2d70db",
+        "name": "Execute Inserts",
+        "x": 960,
+        "y": 100,
+        "wires": [
+            [
+                "3e358a75cd248a57"
+            ]
+        ]
+    },
+    {
+        "id": "128a74ae0a6b3c6e",
+        "type": "function",
+        "z": "6033595d0855d3fc",
+        "name": "Simulate Sensors",
+        "func": "msg.payload = {\n    idUser: 2,\n    idDoor1: 1,\n    idDoor2: 2,\n    idWindow1: 1,\n    idWindow2: 2,\n    window1: Math.random() > 0.5 ? \"opened\" : \"closed\",\n    window2: Math.random() > 0.5 ? \"opened\" : \"closed\",\n    door1: Math.random() > 0.5 ? \"opened\" : \"closed\",\n    door2: Math.random() > 0.5 ? \"opened\" : \"closed\",\n    water: Math.random() > 0.5 ? \"alert\" : \"stoped\",\n    motion: Math.random() > 0.5 ? \"motion detected\" : \"motion stoped\",\n    smoke: Math.random() > 0.5 ? \"alert\" : \"stoped\",\n    timestamp: new Date().toISOString()\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": "0",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 340,
+        "wires": [
+            [
+                "a6230195dfe1e6a9",
+                "e69fe111f70f8ab1",
+                "4e65d66f7c2d6a53",
+                "9152f2a2ca3af403",
+                "56fceae812848b80",
+                "2f07c7bd8698c490",
+                "02208a3c2a1e7fbd",
+                "c26c0e5000063b22"
+            ]
+        ]
+    },
+    {
+        "id": "4e65d66f7c2d6a53",
+        "type": "function",
+        "z": "6033595d0855d3fc",
+        "name": "insert into smokesensors",
+        "func": "msg.topic = \"INSERT INTO smokesensors(state) VALUES('\" + msg.payload.smoke + \"')\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 220,
+        "wires": [
+            [
+                "2773abc3c92b0ebf"
+            ]
+        ]
+    },
+    {
+        "id": "a6230195dfe1e6a9",
+        "type": "function",
+        "z": "6033595d0855d3fc",
+        "name": "insert into waterlevelsensors",
+        "func": "msg.topic = \"INSERT INTO waterlevelsensors(state) VALUES('\" + msg.payload.water + \"')\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 260,
+        "wires": [
+            [
+                "2773abc3c92b0ebf"
+            ]
+        ]
+    },
+    {
+        "id": "56fceae812848b80",
+        "type": "function",
+        "z": "6033595d0855d3fc",
+        "name": "insert into doorhistorique",
+        "func": "//msg.topic = \"INSERT INTO doorhistorique(idUser, idDoor, state) VALUES('\" + msg.payload.idUser + \"','\" + msg.payload.idDoor + \"','\" + msg.payload.door + \"')\";\n//return msg;\n\n// Set the first payload for door1\nvar msg1 = {\n    topic: \"INSERT INTO `doorhistorique`(idUser, idDoor, state) VALUES(?,?,?)\",\n    payload: [msg.payload.idUser, msg.payload.idDoor1, msg.payload.door1]\n};\n\n// Set the second payload for door2\nvar msg2 = {\n    topic: \"INSERT INTO `doorhistorique`(idUser, idDoor, state) VALUES(?,?,?)\",\n    payload: [msg.payload.idUser, msg.payload.idDoor2, msg.payload.door2]\n};\n\n// Return an array of messages\nreturn [msg1, msg2];",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 440,
+        "wires": [
+            [
+                "2773abc3c92b0ebf"
+            ],
+            [
+                "2773abc3c92b0ebf"
+            ]
+        ]
+    },
+    {
+        "id": "02208a3c2a1e7fbd",
+        "type": "function",
+        "z": "6033595d0855d3fc",
+        "name": "insert into windowhistorique",
+        "func": "//msg.topic = \"INSERT INTO windowhistorique(idWindow, state) VALUES('\" + msg.payload.idWindow + \"','\" + msg.payload.window + \"')\";\n//return msg;\n\n// Set the first payload for window1\nvar msg1 = {\n    topic: \"INSERT INTO windowhistorique(idWindow, state) VALUES(?,?)\",\n    payload: [msg.payload.idWindow1, msg.payload.window1]\n};\n\n// Set the second payload for window2\nvar msg2 = {\n    topic: \"INSERT INTO windowhistorique(idWindow, state) VALUES(?,?)\",\n    payload: [msg.payload.idWindow2, msg.payload.window2]\n};\n\n// Return an array of messages\nreturn [msg1, msg2];",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 460,
+        "y": 520,
+        "wires": [
+            [
+                "2773abc3c92b0ebf"
+            ],
+            [
+                "2773abc3c92b0ebf"
+            ]
+        ]
+    },
+    {
+        "id": "2f07c7bd8698c490",
+        "type": "function",
+        "z": "6033595d0855d3fc",
+        "name": "update windowstatus",
+        "func": "// Set the first payload for window1\nvar msg1 = {\n    topic: \"UPDATE `windowstatus` SET `status`=? WHERE `id`=?\",\n    payload: [msg.payload.window1, msg.payload.idWindow1]\n};\n\n// Set the second payload for window2\nvar msg2 = {\n    topic: \"UPDATE `windowstatus` SET `status`=? WHERE `id`=?\",\n    payload: [msg.payload.window2, msg.payload.idWindow2]\n};\n\n// Return an array of messages\nreturn [msg1, msg2];\n",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 460,
+        "y": 480,
+        "wires": [
+            [
+                "5371c6f49e443941"
+            ],
+            [
+                "e0323db1ce0d39ac"
+            ]
+        ]
+    },
+    {
+        "id": "604918b37c40bfc5",
+        "type": "debug",
+        "z": "6033595d0855d3fc",
+        "name": "debug 3-1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1240,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "f042bc4159687999",
+        "type": "inject",
+        "z": "6033595d0855d3fc",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 360,
+        "wires": [
+            [
+                "128a74ae0a6b3c6e"
+            ]
+        ]
+    },
+    {
+        "id": "2b1fe1fd8ca5da24",
+        "type": "websocket in",
+        "z": "6033595d0855d3fc",
+        "name": "",
+        "server": "bf678ed014e9195b",
+        "client": "",
+        "x": 740,
+        "y": 960,
+        "wires": [
+            [
+                "384da95557188466"
+            ]
+        ]
+    },
+    {
+        "id": "c26c0e5000063b22",
+        "type": "function",
+        "z": "6033595d0855d3fc",
+        "name": "update doorstatus",
+        "func": "// Set the first payload for door1\nvar msg1 = {\n    topic: \"UPDATE `doorstatus` SET `state`=? WHERE `id`=?\",\n    payload: [msg.payload.door1, msg.payload.idDoor1]\n};\n\n// Set the second payload for door2\nvar msg2 = {\n    topic: \"UPDATE `doorstatus` SET `state`=? WHERE `id`=?\",\n    payload: [msg.payload.door2, msg.payload.idDoor2]\n};\n\n// Return an array of messages\nreturn [msg1, msg2];\n",
+        "outputs": 2,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 400,
+        "wires": [
+            [
+                "e9425af480a3b797"
+            ],
+            [
+                "37639b0f2e7fa917"
+            ]
+        ]
+    },
+    {
+        "id": "e9425af480a3b797",
+        "type": "mysql",
+        "z": "6033595d0855d3fc",
+        "d": true,
+        "mydb": "1c33e4681c2d70db",
+        "name": "Execute Door Update 1",
+        "x": 990,
+        "y": 160,
+        "wires": [
+            [
+                "bbeffc5695575630"
+            ]
+        ]
+    },
+    {
+        "id": "37639b0f2e7fa917",
+        "type": "mysql",
+        "z": "6033595d0855d3fc",
+        "d": true,
+        "mydb": "1c33e4681c2d70db",
+        "name": "Execute Door Update 2",
+        "x": 990,
+        "y": 220,
+        "wires": [
+            [
+                "0bc6dc2ec66b5c13"
+            ]
+        ]
+    },
+    {
+        "id": "bbeffc5695575630",
+        "type": "debug",
+        "z": "6033595d0855d3fc",
+        "name": "Debug 2-1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1250,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "0bc6dc2ec66b5c13",
+        "type": "debug",
+        "z": "6033595d0855d3fc",
+        "name": "Debug 2-2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1250,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "178392d2c2af11bc",
+        "type": "debug",
+        "z": "6033595d0855d3fc",
+        "name": "debug 3-1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1240,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "5371c6f49e443941",
+        "type": "mysql",
+        "z": "6033595d0855d3fc",
+        "d": true,
+        "mydb": "1c33e4681c2d70db",
+        "name": "Execute Window Update 1",
+        "x": 1000,
+        "y": 280,
+        "wires": [
+            [
+                "604918b37c40bfc5"
+            ]
+        ]
+    },
+    {
+        "id": "e0323db1ce0d39ac",
+        "type": "mysql",
+        "z": "6033595d0855d3fc",
+        "d": true,
+        "mydb": "1c33e4681c2d70db",
+        "name": "Execute Window Update 2",
+        "x": 1000,
+        "y": 340,
+        "wires": [
+            [
+                "178392d2c2af11bc"
+            ]
+        ]
+    },
+    {
+        "id": "4043f78674087a5d",
+        "type": "debug",
+        "z": "6033595d0855d3fc",
+        "name": "debug 149",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1410,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "3e358a75cd248a57",
+        "type": "debug",
+        "z": "6033595d0855d3fc",
+        "name": "Debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1240,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "eaf4bcaebb23da59",
+        "type": "function",
+        "z": "6033595d0855d3fc",
+        "name": "Simulate Sensors",
+        "func": "msg.payload = {\n    idUser: msg.payload.iduser,\n    idDoor1: msg.payload.iddoor,\n    door1: msg.payload.state\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": "0",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1230,
+        "y": 720,
+        "wires": [
+            [
+                "e69fe111f70f8ab1"
+            ]
+        ]
+    },
+    {
+        "id": "39a46cfd64c7e27c",
+        "type": "function",
+        "z": "6033595d0855d3fc",
+        "name": "Simulate Sensors",
+        "func": "msg.payload = {\n    iduser: 2,\n    iddoor: 1,\n    state: Math.random() > 0.5 ? \"opened\" : \"closed\"\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": "0",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 780,
+        "wires": [
+            [
+                "eaf4bcaebb23da59"
+            ]
+        ]
+    },
+    {
+        "id": "8cae71263f67e674",
+        "type": "inject",
+        "z": "6033595d0855d3fc",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 450,
+        "y": 840,
+        "wires": [
+            [
+                "39a46cfd64c7e27c",
+                "b13242557e4ba254"
+            ]
+        ]
+    },
+    {
+        "id": "b13242557e4ba254",
+        "type": "function",
+        "z": "6033595d0855d3fc",
+        "name": "Simulate Sensors",
+        "func": "msg.payload = {\n    iduser: 2,\n    iddoor: 2,\n    state: Math.random() > 0.5 ? \"opened\" : \"closed\"\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": "0",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 789.5833129882812,
+        "y": 859.1666870117188,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6e6fe8aec572462f",
+        "type": "inject",
+        "z": "6033595d0855d3fc",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 484.5833435058594,
+        "y": 901.6666870117188,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "384da95557188466",
+        "type": "function",
+        "z": "6033595d0855d3fc",
+        "name": "function 11",
+        "func": "// Parse the JSON string into a JavaScript object\nconst obj = JSON.parse(msg.payload);\n\n// Access the \"state\" property and assign its value to msg.payload\nmsg.payload = obj;\n\n// Return the modified message\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1070,
+        "y": 860,
+        "wires": [
+            [
+                "4043f78674087a5d"
+            ]
+        ]
+    },
+    {
+        "id": "serial out",
+        "type": "serial out",
+        "z": "11820e36f717b5cf",
+        "name": "",
+        "serial": "ed23d8b5a689572b",
+        "x": 950,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "2",
+        "type": "function",
+        "z": "11820e36f717b5cf",
+        "name": "Formater commande",
+        "func": "if (msg.payload.stateDoor == \"opened\") {\n    msg.payload = \"open\";\n    msg.payload = msg.payload + \"\\n\";\n    return msg;\n} else if (msg.payload.stateDoor == \"closed\") {\n    msg.payload = \"close\";\n    msg.payload = msg.payload + \"\\n\";\n    return msg;\n} else if (msg.payload == \"open\" || msg.payload == \"close\") {\n    msg.payload = msg.payload + \"\\n\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 900,
+        "y": 680,
+        "wires": [
+            [
+                "serial out"
+            ]
+        ]
+    },
+    {
+        "id": "7",
+        "type": "function",
+        "z": "11820e36f717b5cf",
+        "name": "Door State",
+        "func": "if (msg.payload === \"Door opened\") {\n    msg.payload = \"opened\";\n    return msg;\n} else if (msg.payload === \"Door closed\") {\n    msg.payload = \"closed\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 780,
+        "wires": [
+            [
+                "170c88e9632675e5"
+            ]
+        ]
+    },
+    {
+        "id": "74baff4217a709b2",
+        "type": "websocket in",
+        "z": "11820e36f717b5cf",
+        "name": "",
+        "server": "bf678ed014e9195b",
+        "client": "",
+        "x": 360,
+        "y": 640,
+        "wires": [
+            [
+                "e6c62b9522c2f45e"
+            ]
+        ]
+    },
+    {
+        "id": "eb555c92684e9b13",
+        "type": "debug",
+        "z": "11820e36f717b5cf",
+        "name": "debug 151",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 950,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "e6c62b9522c2f45e",
+        "type": "function",
+        "z": "11820e36f717b5cf",
+        "name": "Format in object",
+        "func": "// Parse the JSON string into a JavaScript object\nconst obj = JSON.parse(msg.payload);\n\n// Access the \"state\" property and assign its value to msg.payload\nmsg.payload = obj;\n\n// Return the modified message\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 640,
+        "wires": [
+            [
+                "2",
+                "cad7097ca94e11e7"
+            ]
+        ]
+    },
+    {
+        "id": "170c88e9632675e5",
+        "type": "function",
+        "z": "11820e36f717b5cf",
+        "name": "soul door",
+        "func": "const door = {\n    idUser: 2,\n    idDoor: 16,\n    nameDoor: 'soul',\n    stateDoor: msg.payload,\n    timestamp: new Date().toISOString()\n};\nmsg.payload = door;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 740,
+        "wires": [
+            [
+                "cad7097ca94e11e7"
+            ]
+        ]
+    },
+    {
+        "id": "cad7097ca94e11e7",
+        "type": "function",
+        "z": "11820e36f717b5cf",
+        "name": "Return Specified Sensor",
+        "func": "// Simulate Sensors function to accumulate and combine sensor data\nlet sensordata = flow.get(\"sensordata\") || {};\n\n// Initialize arrays for multiple doors and windows if not already initialized\n\n// Store incoming sensor data\nif (msg.payload.idDoor !== undefined) {\n    sensordata.doors = sensordata.doors || [];\n    // Check if the door already exists in the array, update if found, or push if not found\n    let existingDoorIndex = sensordata.doors.findIndex(door => door.idDoor === msg.payload.idDoor);\n    if (existingDoorIndex !== -1) {\n        sensordata.doors[existingDoorIndex] = msg.payload;\n    } else {\n        sensordata.doors.push(msg.payload);\n    }\n}\nif (msg.payload.idWindow !== undefined) {\n    sensordata.windows = sensordata.windows || [];\n    // Check if the window already exists in the array, update if found, or push if not found\n    let existingWindowIndex = sensordata.windows.findIndex(window => window.idWindow === msg.payload.idWindow);\n    if (existingWindowIndex !== -1) {\n        sensordata.windows[existingWindowIndex] = msg.payload;\n    } else {\n        sensordata.windows.push(msg.payload);\n    }\n}\nif (msg.payload.water !== undefined) sensordata.water = msg.payload.water;\nif (msg.payload.motion !== undefined) sensordata.motion = msg.payload.motion;\nif (msg.payload.smoke !== undefined) sensordata.smoke = msg.payload.smoke;\n\n// Add the timestamp\nsensordata.timestamp = new Date().toISOString();\n\n// Save the updated sensor data back to the flow context\nflow.set(\"sensordata\", sensordata);\n\n// Check if all sensor data has been received\nif (Object.keys(sensordata).length > 1) {\n    msg.payload = sensordata;\n    delete msg._session;\n    flow.set(\"sensordata\", {}); // Reset the sensor data\n    return msg;\n} else {\n    delete msg._session;\n    // Do not forward the message if not all data has been received\n    return [null, msg];\n}",
+        "outputs": 1,
+        "timeout": "0",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 640,
+        "wires": [
+            [
+                "5d372ac4221e574e",
+                "d0edf10038e1367a"
+            ]
+        ]
+    },
+    {
+        "id": "5d372ac4221e574e",
+        "type": "websocket out",
+        "z": "11820e36f717b5cf",
+        "name": "",
+        "server": "bf678ed014e9195b",
+        "client": "",
+        "x": 1000,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "d0edf10038e1367a",
+        "type": "debug",
+        "z": "11820e36f717b5cf",
+        "name": "sensor",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 990,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "93eeda19d61aadb9",
+        "type": "function",
+        "z": "11820e36f717b5cf",
+        "name": "Parse Door State",
+        "func": "// Initialisation de la chaîne complète\nif (typeof context.completeString === 'undefined') {\n    context.completeString = \"\";\n}\n\n// Ajout du payload actuel à la chaîne complète\ncontext.completeString += msg.payload;\n\n// Si le payload contient un retour à la ligne ou est un seul caractère de retour à la ligne, affichez la chaîne complète et réinitialisez-la\nif (msg.payload.includes('\\n') || msg.payload === '\\r') {\n    msg.payload = context.completeString.trim(); // Supprimez les espaces blancs autour de la chaîne\n    context.completeString = \"\"; // Réinitialisez la chaîne pour la prochaine séquence\n    return msg; // Envoyez le message au nœud suivant\n} else {\n    return null; // Ne rien faire pour le moment\n}\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 960,
+        "wires": [
+            [
+                "7",
+                "f767addfeca5745c",
+                "2ef0c4a1265906c7",
+                "48f6b5fd29b30212",
+                "1890f3803615138a"
+            ]
+        ]
+    },
+    {
+        "id": "21aacd4a20b5bd57",
+        "type": "function",
+        "z": "11820e36f717b5cf",
+        "name": "Window_1",
+        "func": "msg.payload = {\n    idWindow: 1,\n    nameWindow: 'dinning room_01',\n    stateWindow: msg.payload,\n    timestamp: new Date().toISOString()\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 780,
+        "wires": [
+            [
+                "cad7097ca94e11e7"
+            ]
+        ]
+    },
+    {
+        "id": "6",
+        "type": "serial in",
+        "z": "11820e36f717b5cf",
+        "name": "",
+        "serial": "ed23d8b5a689572b",
+        "x": 110,
+        "y": 1000,
+        "wires": [
+            [
+                "93eeda19d61aadb9"
+            ]
+        ]
+    },
+    {
+        "id": "f767addfeca5745c",
+        "type": "function",
+        "z": "11820e36f717b5cf",
+        "name": "Window State",
+        "func": "if (msg.payload === \"window:opened\") {\n    msg.payload = \"opened\";\n    return msg;\n} else if (msg.payload === \"window:closed\") {\n    msg.payload = \"closed\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 820,
+        "wires": [
+            [
+                "21aacd4a20b5bd57"
+            ]
+        ]
+    },
+    {
+        "id": "2ef0c4a1265906c7",
+        "type": "function",
+        "z": "11820e36f717b5cf",
+        "name": "Motion State",
+        "func": "if (msg.payload === \"Motion detected\") {\n    msg.payload = \"motion detected\";\n    return msg;\n} else if (msg.payload === \"Motion stoped\") {\n    msg.payload = \"motion stoped\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 490,
+        "y": 860,
+        "wires": [
+            [
+                "7656b55dde3fd278"
+            ]
+        ]
+    },
+    {
+        "id": "7656b55dde3fd278",
+        "type": "function",
+        "z": "11820e36f717b5cf",
+        "name": "Motion Sensor",
+        "func": "msg.payload = {\n    motion: msg.payload,\n    timestamp: new Date().toISOString()\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 700,
+        "y": 820,
+        "wires": [
+            [
+                "cad7097ca94e11e7"
+            ]
+        ]
+    },
+    {
+        "id": "cf5af13737e9f9c4",
+        "type": "function",
+        "z": "11820e36f717b5cf",
+        "name": "Smoke Sensor",
+        "func": "msg.payload = {\n    smoke: msg.payload,\n    timestamp: new Date().toISOString()\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 860,
+        "wires": [
+            [
+                "cad7097ca94e11e7"
+            ]
+        ]
+    },
+    {
+        "id": "48f6b5fd29b30212",
+        "type": "function",
+        "z": "11820e36f717b5cf",
+        "name": "Smoke/Gaz State",
+        "func": "if (msg.payload === \"Smoke/Gaz:Alert\") {\n    msg.payload = \"alert\";\n    return msg;\n} else if (msg.payload === \"Smoke/Gaz:Normal\") {\n    msg.payload = \"stoped\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 900,
+        "wires": [
+            [
+                "cf5af13737e9f9c4"
+            ]
+        ]
+    },
+    {
+        "id": "0d9724ca73c83803",
+        "type": "function",
+        "z": "11820e36f717b5cf",
+        "name": "Water Sensor",
+        "func": "msg.payload = {\n    water: Math.random() > 0.5 ? \"alert\" : \"stoped\",\n    timestamp: new Date().toISOString()\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 900,
+        "wires": [
+            [
+                "cad7097ca94e11e7"
+            ]
+        ]
+    },
+    {
+        "id": "1890f3803615138a",
+        "type": "function",
+        "z": "11820e36f717b5cf",
+        "name": "Water State",
+        "func": "if (msg.payload === \"Waterlevel:Alert\") {\n    msg.payload = \"alert\";\n    return msg;\n} else if (msg.payload === \"Waterlevel:Stoped\") {\n    msg.payload = \"stoped\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 940,
+        "wires": [
+            [
+                "0d9724ca73c83803"
+            ]
+        ]
+    },
+    {
+        "id": "63c79e94cfa85755",
+        "type": "websocket out",
+        "z": "04f9b61dcb1ad18b",
+        "name": "",
+        "server": "bf678ed014e9195b",
+        "client": "",
+        "x": 1520,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "4eac251fb2ac25f2",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Return Specified Sensor",
+        "func": "// Simulate Sensors function to accumulate and combine sensor data\nlet sensordata = flow.get(\"sensordata\") || {};\n\n// Initialize arrays for multiple doors and windows if not already initialized\n\n// Store incoming sensor data\nif (msg.payload.idDoor !== undefined) {\n    sensordata.doors = sensordata.doors || [];\n    // Check if the door already exists in the array, update if found, or push if not found\n    let existingDoorIndex = sensordata.doors.findIndex(door => door.idDoor === msg.payload.idDoor);\n    if (existingDoorIndex !== -1) {\n        sensordata.doors[existingDoorIndex] = msg.payload;\n    } else {\n        sensordata.doors.push(msg.payload);\n    }\n}\nif (msg.payload.idWindow !== undefined) {\n    sensordata.windows = sensordata.windows || [];\n    // Check if the window already exists in the array, update if found, or push if not found\n    let existingWindowIndex = sensordata.windows.findIndex(window => window.idWindow === msg.payload.idWindow);\n    if (existingWindowIndex !== -1) {\n        sensordata.windows[existingWindowIndex] = msg.payload;\n    } else {\n        sensordata.windows.push(msg.payload);\n    }\n}\nif (msg.payload.water !== undefined) sensordata.water = msg.payload.water;\nif (msg.payload.motion !== undefined) sensordata.motion = msg.payload.motion;\nif (msg.payload.smoke !== undefined) sensordata.smoke = msg.payload.smoke;\nif (msg.payload.system !== undefined) sensordata.system = msg.payload.system;\n\n// Add the timestamp\nsensordata.timestamp = new Date().toISOString();\n\n// Save the updated sensor data back to the flow context\nflow.set(\"sensordata\", sensordata);\n\n// Check if all sensor data has been received\nif (Object.keys(sensordata).length > 1) {\n    msg.payload = sensordata;\n    delete msg._session;\n    flow.set(\"sensordata\", {}); // Reset the sensor data\n    return msg;\n} else {\n    delete msg._session;\n    // Do not forward the message if not all data has been received\n    return [null, msg];\n}",
+        "outputs": 1,
+        "timeout": "0",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1150,
+        "y": 1200,
+        "wires": [
+            [
+                "63c79e94cfa85755",
+                "74ce5a3bb755756b"
+            ]
+        ]
+    },
+    {
+        "id": "27acb95cd4d37cfd",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "d": true,
+        "name": "Motion Sensor",
+        "func": "msg.payload = {\n    motion: Math.random() > 0.5 ? \"motion detected\" : \"motion stoped\",\n    timestamp: new Date().toISOString()\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 780,
+        "y": 900,
+        "wires": [
+            [
+                "4eac251fb2ac25f2"
+            ]
+        ]
+    },
+    {
+        "id": "5d105ab31f43f089",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "d": true,
+        "name": "Smoke Sensor",
+        "func": "msg.payload = {\n    smoke: Math.random() > 0.5 ? \"alert\" : \"stoped\",\n    timestamp: new Date().toISOString()\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 860,
+        "wires": [
+            [
+                "4eac251fb2ac25f2"
+            ]
+        ]
+    },
+    {
+        "id": "ca93dc68b634701f",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "d": true,
+        "name": "Water Sensor",
+        "func": "msg.payload = {\n    water: Math.random() > 0.5 ? \"alert\" : \"stoped\",\n    timestamp: new Date().toISOString()\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 780,
+        "y": 940,
+        "wires": [
+            [
+                "4eac251fb2ac25f2"
+            ]
+        ]
+    },
+    {
+        "id": "dacf768551eaf34a",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Front Door",
+        "func": "msg.payload = {\n    idUser: 2,\n    idDoor: 1,\n    nameDoor: 'front door',\n    stateDoor: Math.random() > 0.5 ? \"opened\" : \"closed\",\n    timestamp: new Date().toISOString()\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 1480,
+        "wires": [
+            [
+                "4eac251fb2ac25f2",
+                "39540a0870a51849",
+                "a30d026274b54447"
+            ]
+        ]
+    },
+    {
+        "id": "5f05b742dba79256",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Back Door",
+        "func": "msg.payload = {\n    idUser: 2,\n    idDoor: 2,\n    nameDoor: 'back door',\n    stateDoor: Math.random() > 0.5 ? \"opened\" : \"closed\",\n    timestamp: new Date().toISOString()\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 1540,
+        "wires": [
+            [
+                "4eac251fb2ac25f2",
+                "39540a0870a51849",
+                "a30d026274b54447"
+            ]
+        ]
+    },
+    {
+        "id": "cbc815d28f38125a",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "d": true,
+        "name": "Window_1",
+        "func": "msg.payload = {\n    idWindow: 1,\n    nameWindow: 'dinning room_01',\n    stateWindow: Math.random() > 0.5 ? \"opened\" : \"closed\",\n    timestamp: new Date().toISOString()\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 490,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bd75f91cfdbde8a1",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Window_2",
+        "func": "msg.payload = {\n    idWindow: 2,\n    nameWindow: 'dinning room_02',\n    stateWindow: Math.random() > 0.5 ? \"opened\" : \"closed\",\n    timestamp: new Date().toISOString()\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 1660,
+        "wires": [
+            [
+                "4eac251fb2ac25f2",
+                "5d8ca286c4aa1b65",
+                "589f746164142d04"
+            ]
+        ]
+    },
+    {
+        "id": "b845994de2ce8b7d",
+        "type": "inject",
+        "z": "04f9b61dcb1ad18b",
+        "d": true,
+        "name": "Window",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 320,
+        "y": 660,
+        "wires": [
+            [
+                "cbc815d28f38125a"
+            ]
+        ]
+    },
+    {
+        "id": "acf0f6cba26bc9e2",
+        "type": "inject",
+        "z": "04f9b61dcb1ad18b",
+        "d": true,
+        "name": "Door",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 310,
+        "y": 720,
+        "wires": [
+            [
+                "32a113293baa4fc5"
+            ]
+        ]
+    },
+    {
+        "id": "47c07381bf52656e",
+        "type": "inject",
+        "z": "04f9b61dcb1ad18b",
+        "d": true,
+        "name": "motionSensor",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 580,
+        "y": 880,
+        "wires": [
+            [
+                "27acb95cd4d37cfd"
+            ]
+        ]
+    },
+    {
+        "id": "0df8868922d1e5b9",
+        "type": "inject",
+        "z": "04f9b61dcb1ad18b",
+        "d": true,
+        "name": "smokeSensor",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 560,
+        "y": 840,
+        "wires": [
+            [
+                "5d105ab31f43f089"
+            ]
+        ]
+    },
+    {
+        "id": "c97ec4ed52b41844",
+        "type": "inject",
+        "z": "04f9b61dcb1ad18b",
+        "d": true,
+        "name": "waterSensor",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 590,
+        "y": 920,
+        "wires": [
+            [
+                "ca93dc68b634701f"
+            ]
+        ]
+    },
+    {
+        "id": "32a113293baa4fc5",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "d": true,
+        "name": "soul door",
+        "func": "msg.payload = {\n    idUser: 2,\n    idDoor: 16,\n    nameDoor: 'soul',\n    stateDoor: Math.random() > 0.5 ? \"opened\" : \"closed\",\n    timestamp: new Date().toISOString()\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 460,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "adbee7d16facf78d",
+        "type": "inject",
+        "z": "04f9b61dcb1ad18b",
+        "d": true,
+        "name": "Door",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 710,
+        "y": 1480,
+        "wires": [
+            [
+                "dacf768551eaf34a"
+            ]
+        ]
+    },
+    {
+        "id": "b4da6729e4279a85",
+        "type": "inject",
+        "z": "04f9b61dcb1ad18b",
+        "d": true,
+        "name": "Door",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 710,
+        "y": 1540,
+        "wires": [
+            [
+                "5f05b742dba79256"
+            ]
+        ]
+    },
+    {
+        "id": "3c43c46e1b2be69d",
+        "type": "inject",
+        "z": "04f9b61dcb1ad18b",
+        "d": true,
+        "name": "Window",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 700,
+        "y": 1660,
+        "wires": [
+            [
+                "bd75f91cfdbde8a1"
+            ]
+        ]
+    },
+    {
+        "id": "74ce5a3bb755756b",
+        "type": "debug",
+        "z": "04f9b61dcb1ad18b",
+        "name": "sensor",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1490,
+        "y": 1120,
+        "wires": []
+    },
+    {
+        "id": "22e728283fd2c929",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Insert into motionsensors",
+        "func": "msg.topic = \"INSERT INTO motionsensors(state) VALUES('\" + msg.payload.motion + \"')\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1150,
+        "y": 1020,
+        "wires": [
+            [
+                "b7cb7c35d5ee46cb"
+            ]
+        ]
+    },
+    {
+        "id": "4bbbd58c9a123ad0",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "insert into smokesensors",
+        "func": "msg.topic = \"INSERT INTO smokesensors(state) VALUES('\" + msg.payload.smoke + \"')\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1150,
+        "y": 1080,
+        "wires": [
+            [
+                "b7cb7c35d5ee46cb"
+            ]
+        ]
+    },
+    {
+        "id": "ec9af655ca78e6f1",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "insert into waterlevelsensors",
+        "func": "msg.topic = \"INSERT INTO waterlevelsensors(state) VALUES('\" + msg.payload.water + \"')\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1160,
+        "y": 1140,
+        "wires": [
+            [
+                "b7cb7c35d5ee46cb"
+            ]
+        ]
+    },
+    {
+        "id": "39540a0870a51849",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "update doorstatus",
+        "func": "var msg = {\n    topic: \"UPDATE `doorstatus` SET `state`=? WHERE `id`=?\",\n    payload: [msg.payload.stateDoor, msg.payload.idDoor]\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1130,
+        "y": 1320,
+        "wires": [
+            [
+                "b7cb7c35d5ee46cb"
+            ]
+        ]
+    },
+    {
+        "id": "a30d026274b54447",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "insert into doorhistorique",
+        "func": "msg.topic = \"INSERT INTO doorhistorique(idUser, idDoor, state) VALUES('\" + msg.payload.idUser + \"','\" + msg.payload.idDoor + \"','\" + msg.payload.stateDoor + \"')\";\nreturn msg;\n\n// Set the first payload for door1\n//var msg1 = {\n//    topic: \"INSERT INTO `doorhistorique`(idUser, idDoor, state) VALUES(?,?,?)\",\n//    payload: [msg.payload.idUser, msg.payload.idDoor1, msg.payload.door1]\n//};\n\n// Set the second payload for door2\n//var msg2 = {\n//   topic: \"INSERT INTO `doorhistorique`(idUser, idDoor, state) VALUES(?,?,?)\",\n//    payload: [msg.payload.idUser, msg.payload.idDoor2, msg.payload.door2]\n//};\n\n// Return an array of messages\n//return [msg1, msg2];",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1150,
+        "y": 1380,
+        "wires": [
+            [
+                "b7cb7c35d5ee46cb"
+            ]
+        ]
+    },
+    {
+        "id": "589f746164142d04",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "update windowstatus",
+        "func": "// Set the first payload for window1\nvar msg = {\n    topic: \"UPDATE `windowstatus` SET `status`=? WHERE `id`=?\",\n    payload: [msg.payload.stateWindow, msg.payload.idWindow]\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1140,
+        "y": 1440,
+        "wires": [
+            [
+                "b7cb7c35d5ee46cb"
+            ]
+        ]
+    },
+    {
+        "id": "5d8ca286c4aa1b65",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "insert into windowhistorique",
+        "func": "msg.topic = \"INSERT INTO windowhistorique(idWindow, state) VALUES('\" + msg.payload.idWindow + \"','\" + msg.payload.stateWindow + \"')\";\nreturn msg;\n\n// Set the first payload for window1\n//var msg1 = {\n//    topic: \"INSERT INTO windowhistorique(idWindow, state) VALUES(?,?)\",\n//    payload: [msg.payload.idWindow1, msg.payload.window1]\n//};\n\n// Set the second payload for window2\n//var msg2 = {\n//    topic: \"INSERT INTO windowhistorique(idWindow, state) VALUES(?,?)\",\n//    payload: [msg.payload.idWindow2, msg.payload.window2]\n//};\n\n// Return an array of messages\n//return [msg1, msg2];",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1160,
+        "y": 1500,
+        "wires": [
+            [
+                "b7cb7c35d5ee46cb"
+            ]
+        ]
+    },
+    {
+        "id": "b7cb7c35d5ee46cb",
+        "type": "mysql",
+        "z": "04f9b61dcb1ad18b",
+        "mydb": "1c33e4681c2d70db",
+        "name": "Execute Inserts",
+        "x": 1440,
+        "y": 1260,
+        "wires": [
+            [
+                "87c9ca68613b58a1"
+            ]
+        ]
+    },
+    {
+        "id": "87c9ca68613b58a1",
+        "type": "debug",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Database",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1460,
+        "y": 1220,
+        "wires": []
+    },
+    {
+        "id": "6e118b1753bcf734",
+        "type": "websocket in",
+        "z": "04f9b61dcb1ad18b",
+        "name": "",
+        "server": "bf678ed014e9195b",
+        "client": "",
+        "x": 640,
+        "y": 1220,
+        "wires": [
+            [
+                "9b89e7ecd10c81f7"
+            ]
+        ]
+    },
+    {
+        "id": "9b89e7ecd10c81f7",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Format in object",
+        "func": "// Parse the JSON string into a JavaScript object\nconst obj = JSON.parse(msg.payload);\n\n// Access the \"state\" property and assign its value to msg.payload\nmsg.payload = obj;\n\n// Return the modified message\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 1280,
+        "wires": [
+            [
+                "235ac8a4b0260011",
+                "582d5b08da612211",
+                "28d60992c8427451"
+            ]
+        ]
+    },
+    {
+        "id": "c5e5906695f162fd",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Formater commande",
+        "func": "if (msg.payload.stateDoor == \"opened\") {\n    msg.payload = \"open\";\n    msg.payload = msg.payload + \"\\n\";\n    return msg;\n} else if (msg.payload.stateDoor == \"closed\") {\n    msg.payload = \"close\";\n    msg.payload = msg.payload + \"\\n\";\n    return msg;\n} else if (msg.payload == \"open\" || msg.payload == \"close\") {\n    msg.payload = msg.payload + \"\\n\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1300,
+        "y": 400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d0cb6662b57bf865",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "soul door",
+        "func": "const door = {\n    idUser: 2,\n    idDoor: 16,\n    nameDoor: 'soul',\n    stateDoor: msg.payload,\n    timestamp: new Date().toISOString()\n};\nmsg.payload = door;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 860,
+        "y": 1420,
+        "wires": [
+            [
+                "4eac251fb2ac25f2",
+                "39540a0870a51849",
+                "a30d026274b54447"
+            ]
+        ]
+    },
+    {
+        "id": "1e01b4ec803646d7",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Window_1",
+        "func": "msg.payload = {\n    idWindow: 1,\n    nameWindow: 'dinning room_01',\n    stateWindow: msg.payload,\n    timestamp: new Date().toISOString()\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 1600,
+        "wires": [
+            [
+                "589f746164142d04",
+                "5d8ca286c4aa1b65",
+                "4eac251fb2ac25f2"
+            ]
+        ]
+    },
+    {
+        "id": "ccaf9426a9783f76",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Motion Sensor",
+        "func": "msg.payload = {\n    motion: msg.payload,\n    timestamp: new Date().toISOString()\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 880,
+        "y": 1060,
+        "wires": [
+            [
+                "22e728283fd2c929",
+                "4eac251fb2ac25f2"
+            ]
+        ]
+    },
+    {
+        "id": "ba9b1670f8ab5509",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Smoke Sensor",
+        "func": "msg.payload = {\n    smoke: msg.payload,\n    timestamp: new Date().toISOString()\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 880,
+        "y": 1120,
+        "wires": [
+            [
+                "4bbbd58c9a123ad0",
+                "4eac251fb2ac25f2"
+            ]
+        ]
+    },
+    {
+        "id": "acde0ad1280a3049",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Water Sensor",
+        "func": "msg.payload = {\n    water: Math.random() > 0.5 ? \"alert\" : \"stoped\",\n    timestamp: new Date().toISOString()\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 880,
+        "y": 1180,
+        "wires": [
+            [
+                "ec9af655ca78e6f1",
+                "4eac251fb2ac25f2"
+            ]
+        ]
+    },
+    {
+        "id": "b889cb63e8fe6465",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Door State",
+        "func": "if (msg.payload === \"Door opened\") {\n    msg.payload = \"opened\";\n    return msg;\n} else if (msg.payload === \"Door closed\") {\n    msg.payload = \"closed\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 690,
+        "y": 1420,
+        "wires": [
+            [
+                "d0cb6662b57bf865"
+            ]
+        ]
+    },
+    {
+        "id": "c9399af93228b8fa",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Window State",
+        "func": "if (msg.payload === \"window:opened\") {\n    msg.payload = \"opened\";\n    return msg;\n} else if (msg.payload === \"window:closed\") {\n    msg.payload = \"closed\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 680,
+        "y": 1600,
+        "wires": [
+            [
+                "1e01b4ec803646d7"
+            ]
+        ]
+    },
+    {
+        "id": "180811d04c47ad6c",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Motion State",
+        "func": "if (msg.payload === \"Motion detected\") {\n    msg.payload = \"motion detected\";\n    return msg;\n} else if (msg.payload === \"Motion stoped\") {\n    msg.payload = \"motion stoped\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 690,
+        "y": 1040,
+        "wires": [
+            [
+                "ccaf9426a9783f76"
+            ]
+        ]
+    },
+    {
+        "id": "b350f9ddb2648de2",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Smoke/Gaz State",
+        "func": "if (msg.payload === \"Smoke/Gaz:Alert\") {\n    msg.payload = \"alert\";\n    return msg;\n} else if (msg.payload === \"Smoke/Gaz:Normal\") {\n    msg.payload = \"stoped\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 1100,
+        "wires": [
+            [
+                "ba9b1670f8ab5509"
+            ]
+        ]
+    },
+    {
+        "id": "21eef426b548fdbc",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Water State",
+        "func": "if (msg.payload === \"Waterlevel:Alert\") {\n    msg.payload = \"alert\";\n    return msg;\n} else if (msg.payload === \"Waterlevel:Stoped\") {\n    msg.payload = \"stoped\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 690,
+        "y": 1160,
+        "wires": [
+            [
+                "acde0ad1280a3049"
+            ]
+        ]
+    },
+    {
+        "id": "142cacd21618541e",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Parse Door State",
+        "func": "// Initialisation de la chaîne complète\nif (typeof context.completeString === 'undefined') {\n    context.completeString = \"\";\n}\n\n// Ajout du payload actuel à la chaîne complète\ncontext.completeString += msg.payload;\n\n// Si le payload contient un retour à la ligne ou est un seul caractère de retour à la ligne, affichez la chaîne complète et réinitialisez-la\nif (msg.payload.includes('\\n') || msg.payload === '\\r') {\n    msg.payload = context.completeString.trim(); // Supprimez les espaces blancs autour de la chaîne\n    context.completeString = \"\"; // Réinitialisez la chaîne pour la prochaine séquence\n    return msg; // Envoyez le message au nœud suivant\n} else {\n    return null; // Ne rien faire pour le moment\n}\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 1240,
+        "wires": [
+            [
+                "b889cb63e8fe6465",
+                "c9399af93228b8fa",
+                "180811d04c47ad6c",
+                "b350f9ddb2648de2",
+                "21eef426b548fdbc"
+            ]
+        ]
+    },
+    {
+        "id": "9c67833c448b52dd",
+        "type": "serial in",
+        "z": "04f9b61dcb1ad18b",
+        "name": "",
+        "serial": "ab30fae1.9dd208",
+        "x": 190,
+        "y": 1240,
+        "wires": [
+            [
+                "142cacd21618541e"
+            ]
+        ]
+    },
+    {
+        "id": "235ac8a4b0260011",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "FormatCom",
+        "func": "if (msg.payload.stateDoor == \"opened\") {\n    msg.payload = \"open\";\n    msg.payload = msg.payload + \"\\n\";\n    return msg;\n} else if (msg.payload.stateDoor == \"closed\") {\n    msg.payload = \"close\";\n    msg.payload = msg.payload + \"\\n\";\n    return msg;\n} else if (msg.payload == \"open\" || msg.payload == \"close\") {\n    msg.payload = msg.payload + \"\\n\";\n    return msg;\n}else if (msg.payload == \"arme\" || msg.payload == \"desarme\") {\n    msg.payload = msg.payload + \"\\n\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 690,
+        "y": 1360,
+        "wires": [
+            [
+                "0a4d3e70b35cda3c"
+            ]
+        ]
+    },
+    {
+        "id": "0a4d3e70b35cda3c",
+        "type": "serial out",
+        "z": "04f9b61dcb1ad18b",
+        "name": "",
+        "serial": "ab30fae1.9dd208",
+        "x": 870,
+        "y": 1360,
+        "wires": []
+    },
+    {
+        "id": "de31d2d59b1f0e91",
+        "type": "debug",
+        "z": "04f9b61dcb1ad18b",
+        "name": "system",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1480,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "582d5b08da612211",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Motion System",
+        "func": "if (msg.payload == \"arme\" || msg.payload == \"desarme\"){\n    msg.payload = {\n        system: msg.payload,\n        timestamp: new Date().toISOString()\n    }\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 880,
+        "y": 1240,
+        "wires": [
+            [
+                "4eac251fb2ac25f2",
+                "2521a6c0217eee69"
+            ]
+        ]
+    },
+    {
+        "id": "2521a6c0217eee69",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Arm/disarm motion system",
+        "func": "var msg = {\n    topic: \"UPDATE `stateMotionSystem` SET `state`=? WHERE `id_stateMotionSystem`=?\",\n    payload: [msg.payload.system, 1]\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1160,
+        "y": 1260,
+        "wires": [
+            [
+                "b7cb7c35d5ee46cb"
+            ]
+        ]
+    },
+    {
+        "id": "28d60992c8427451",
+        "type": "function",
+        "z": "04f9b61dcb1ad18b",
+        "name": "Door",
+        "func": "if (msg.payload.idDoor !== undefined) {\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 850,
+        "y": 1300,
+        "wires": [
+            [
+                "39540a0870a51849",
+                "a30d026274b54447",
+                "4eac251fb2ac25f2"
+            ]
+        ]
+    },
+    {
+        "id": "f4e90d95.c2c15",
+        "type": "serial out",
+        "z": "b18229735c03d07e",
+        "d": true,
+        "name": "",
+        "serial": "",
+        "x": 490,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "e29b1e36.b8c3d",
+        "type": "serial in",
+        "z": "b18229735c03d07e",
+        "d": true,
+        "name": "",
+        "serial": "",
+        "x": 280,
+        "y": 300,
+        "wires": [
+            [
+                "b3c75cdb.ae4ec8"
+            ]
+        ]
+    },
+    {
+        "id": "c4d564b4.35ad78",
+        "type": "inject",
+        "z": "b18229735c03d07e",
+        "name": "Open",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "open",
+        "payloadType": "str",
+        "x": 310,
+        "y": 380,
+        "wires": [
+            [
+                "f4e90d95.c2c15"
+            ]
+        ]
+    },
+    {
+        "id": "a2f879b3.715a38",
+        "type": "inject",
+        "z": "b18229735c03d07e",
+        "name": "Close",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "close",
+        "payloadType": "str",
+        "x": 310,
+        "y": 420,
+        "wires": [
+            [
+                "f4e90d95.c2c15"
+            ]
+        ]
+    },
+    {
+        "id": "b3c75cdb.ae4ec8",
+        "type": "debug",
+        "z": "b18229735c03d07e",
+        "name": "Lock Status",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 510,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "852fd8152c095f4f",
+        "type": "websocket out",
+        "z": "13c1d77cb1c8b9ad",
+        "name": "",
+        "server": "bf678ed014e9195b",
+        "client": "",
+        "x": 880,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "48fc08e76f1f570d",
+        "type": "debug",
+        "z": "13c1d77cb1c8b9ad",
+        "name": "sensor",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 870,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "51628a5a0fc26d1d",
+        "type": "function",
+        "z": "13c1d77cb1c8b9ad",
+        "name": "Return Specified Sensor",
+        "func": "// Simulate Sensors function to accumulate and combine sensor data\nlet sensordata = flow.get(\"sensordata\") || {};\n\n// Initialize arrays for multiple doors and windows if not already initialized\n\n// Store incoming sensor data\nif (msg.payload.idDoor !== undefined) {\n    sensordata.doors = sensordata.doors || [];\n    // Check if the door already exists in the array, update if found, or push if not found\n    let existingDoorIndex = sensordata.doors.findIndex(door => door.idDoor === msg.payload.idDoor);\n    if (existingDoorIndex !== -1) {\n        sensordata.doors[existingDoorIndex] = msg.payload;\n    } else {\n        sensordata.doors.push(msg.payload);\n    }\n}\nif (msg.payload.idWindow !== undefined) {\n    sensordata.windows = sensordata.windows || [];\n    // Check if the window already exists in the array, update if found, or push if not found\n    let existingWindowIndex = sensordata.windows.findIndex(window => window.idWindow === msg.payload.idWindow);\n    if (existingWindowIndex !== -1) {\n        sensordata.windows[existingWindowIndex] = msg.payload;\n    } else {\n        sensordata.windows.push(msg.payload);\n    }\n}\nif (msg.payload.water !== undefined) sensordata.water = msg.payload.water;\nif (msg.payload.motion !== undefined) sensordata.motion = msg.payload.motion;\nif (msg.payload.smoke !== undefined) sensordata.smoke = msg.payload.smoke;\n\n// Add the timestamp\nsensordata.timestamp = new Date().toISOString();\n\n// Save the updated sensor data back to the flow context\nflow.set(\"sensordata\", sensordata);\n\n// Check if all sensor data has been received\nif (Object.keys(sensordata).length > 1) {\n    msg.payload = sensordata;\n    delete msg._session;\n    flow.set(\"sensordata\", {}); // Reset the sensor data\n    return msg;\n} else {\n    delete msg._session;\n    // Do not forward the message if not all data has been received\n    return [null, msg];\n}",
+        "outputs": 1,
+        "timeout": "0",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 640,
+        "wires": [
+            [
+                "852fd8152c095f4f"
+            ]
+        ]
+    },
+    {
+        "id": "d268e56a50015381",
+        "type": "function",
+        "z": "13c1d77cb1c8b9ad",
+        "name": "Format in object",
+        "func": "// Parse the JSON string into a JavaScript object\nconst obj = JSON.parse(msg.payload);\n\n// Access the \"state\" property and assign its value to msg.payload\nmsg.payload = obj;\n\n// Return the modified message\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 720,
+        "wires": [
+            [
+                "b4dd1bc28ab0140e",
+                "51628a5a0fc26d1d"
+            ]
+        ]
+    },
+    {
+        "id": "a9263eb4a6628ebe",
+        "type": "websocket in",
+        "z": "13c1d77cb1c8b9ad",
+        "name": "",
+        "server": "bf678ed014e9195b",
+        "client": "",
+        "x": 240,
+        "y": 720,
+        "wires": [
+            [
+                "d268e56a50015381"
+            ]
+        ]
+    },
+    {
+        "id": "b4dd1bc28ab0140e",
+        "type": "function",
+        "z": "13c1d77cb1c8b9ad",
+        "name": "Formater commande",
+        "func": "if (msg.payload.stateDoor == \"opened\") {\n    msg.payload = \"open\";\n    msg.payload = msg.payload + \"\\n\";\n    return msg;\n} else if (msg.payload.stateDoor == \"closed\") {\n    msg.payload = \"close\";\n    msg.payload = msg.payload + \"\\n\";\n    return msg;\n} else if (msg.payload == \"open\" || msg.payload == \"close\") {\n    msg.payload = msg.payload + \"\\n\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 720,
+        "wires": [
+            [
+                "b092b1888899b67f"
+            ]
+        ]
+    },
+    {
+        "id": "b092b1888899b67f",
+        "type": "serial out",
+        "z": "13c1d77cb1c8b9ad",
+        "name": "",
+        "serial": "ab30fae1.9dd208",
+        "x": 910,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "9cc324ee2d2460a7",
+        "type": "serial in",
+        "z": "13c1d77cb1c8b9ad",
+        "name": "",
+        "serial": "ab30fae1.9dd208",
+        "x": 210,
+        "y": 780,
+        "wires": [
+            [
+                "68a7370fd1bf7c66"
+            ]
+        ]
+    },
+    {
+        "id": "68a7370fd1bf7c66",
+        "type": "function",
+        "z": "13c1d77cb1c8b9ad",
+        "name": "Parse Door State",
+        "func": "// Initialisation de la chaîne complète\nif (typeof context.completeString === 'undefined') {\n    context.completeString = \"\";\n}\n\n// Ajout du payload actuel à la chaîne complète\ncontext.completeString += msg.payload;\n\n// Si le payload contient un retour à la ligne ou est un seul caractère de retour à la ligne, affichez la chaîne complète et réinitialisez-la\nif (msg.payload.includes('\\n') || msg.payload === '\\r') {\n    msg.payload = context.completeString.trim(); // Supprimez les espaces blancs autour de la chaîne\n    context.completeString = \"\"; // Réinitialisez la chaîne pour la prochaine séquence\n    return msg; // Envoyez le message au nœud suivant\n} else {\n    return null; // Ne rien faire pour le moment\n}\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 780,
+        "wires": [
+            [
+                "93207cf9f67fed20"
+            ]
+        ]
+    },
+    {
+        "id": "93207cf9f67fed20",
+        "type": "function",
+        "z": "13c1d77cb1c8b9ad",
+        "name": "Parse Door State",
+        "func": "if (msg.payload === \"Door opened\") {\n    msg.payload = \"opened\";\n    return msg;\n} else if (msg.payload === \"Door closed\") {\n    msg.payload = \"closed\";\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 820,
+        "wires": [
+            [
+                "3f797f8acefce815"
+            ]
+        ]
+    },
+    {
+        "id": "3f797f8acefce815",
+        "type": "function",
+        "z": "13c1d77cb1c8b9ad",
+        "name": "soul door",
+        "func": "const door = {\n    idUser: 2,\n    idDoor: 16,\n    nameDoor: 'soul',\n    stateDoor: msg.payload,\n    timestamp: new Date().toISOString()\n};\nmsg.payload = door;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 680,
+        "wires": [
+            [
+                "51628a5a0fc26d1d",
+                "48fc08e76f1f570d"
+            ]
+        ]
+    }
+]
